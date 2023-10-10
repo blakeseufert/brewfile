@@ -11,7 +11,7 @@ _Remember to follow the instructions to add Homebrew to your PATH_
 
 Install Brew Bundle
 ```
-curl -o brewfile https://raw.githubusercontent.com/blakeseufert/brewfile/main/brewfile.txt
+curl -o brewfile.txt https://raw.githubusercontent.com/blakeseufert/brewfile/main/brewfile.txt
 brew bundle --file=curl brewfile.txt
 ```
 ---
