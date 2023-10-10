@@ -41,6 +41,7 @@ cask "qlstephen"
 cask "qlvideo"
 cask "quicklook-json"
 cask "quicklookase"
+
 cask "suspicious-package"
 cask "webpquicklook"
 
