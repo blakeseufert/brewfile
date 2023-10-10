@@ -7,14 +7,12 @@ Open Terminal and paste:
 ```
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
 ```
+_Remember to follow the instructions to add Homebrew to your PATH_
 
-Install Brew
-```
-brew bundle install
-```
-
-Get Brew File
+Install Brew Bundle
 ```
 curl -o brewfile https://raw.githubusercontent.com/blakeseufert/brewfile/main/brewfile.txt
 brew bundle --file=curl brewfile.txt
 ```
+
+Sit back and relax 🍹
