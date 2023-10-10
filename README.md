@@ -6,7 +6,15 @@ MacOS Brewfile for apps and utility setup
 Open Terminal and paste:
 ```
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
+```
+
+Install Brew
+```
 brew bundle install
-git commit
-rew bundle --file=
+```
+
+Get Brew File
+```
+curl -o brewfile https://raw.githubusercontent.com/blakeseufert/brewfile/main/brewfile.txt
+brew bundle --file=curl brewfile.txt
 ```
