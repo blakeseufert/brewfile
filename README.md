@@ -14,5 +14,6 @@ Install Brew Bundle
 curl -o brewfile https://raw.githubusercontent.com/blakeseufert/brewfile/main/brewfile.txt
 brew bundle --file=curl brewfile.txt
 ```
+---
 
-Sit back and relax 🍹
+Sit back and let the apps install 🍹 🎉
