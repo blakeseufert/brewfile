@@ -32,7 +32,7 @@ cask "firefox"
 cask "vlc"
 cask "bitwarden"
 cask "nrlquaker-winbox"
-
+cask "bartender"
 
 
 # QuickLock plugins
