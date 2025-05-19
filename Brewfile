@@ -33,6 +33,7 @@ cask "bartender"
 cask "moonlight"
 cask "bettertouchtool"
 cask "figma"
+cask "sublime-text"
 
 # QuickLock plugins
 cask "qlmarkdown"
