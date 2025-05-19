@@ -34,6 +34,11 @@ cask "moonlight"
 cask "bettertouchtool"
 cask "figma"
 cask "sublime-text"
+cask "balenaetcher"
+cask "monitorcontrol"
+cask "utm"
+cask "keepingyouawake"
+cask "tailscale"
 
 # QuickLock plugins
 cask "qlmarkdown"
